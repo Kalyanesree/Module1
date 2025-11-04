@@ -10,8 +10,8 @@ To write a Python program to read a string from the user and then print it.
 
 ## Program
 ```
-a=input()
-print(a)
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
 ```
 ## Output
 <img width="934" height="211" alt="image" src="https://github.com/user-attachments/assets/bae3dd60-13b5-4bcc-b656-55aabae422f3" />
